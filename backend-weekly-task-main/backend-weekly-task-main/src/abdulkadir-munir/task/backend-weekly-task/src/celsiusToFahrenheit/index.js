@@ -9,5 +9,12 @@ alert (convertToFahrenheit(-30))
 alert (convertToFahrenheit(-10))
 
 
-convertToFahrenheit(-30) // -> -22
-convertToFahrenheit(-10) // -> 1
+// convertToFahrenheit(-30) // -> -22
+// convertToFahrenheit(-10) // -> 14
+
+
+// function convertToFahrenheit(celsius){
+//     return Math.round((celsius * (9/5) + 32) ) ;
+// }
+// console.log (convertToFahrenheit(32) + `F`)
+// console.log(convertToFahrenheit(-10))
